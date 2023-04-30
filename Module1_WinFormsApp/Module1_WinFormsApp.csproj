@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Module_1_SampleLibrary">
+      <HintPath>..\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
