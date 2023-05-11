@@ -10,3 +10,15 @@ C:\DotNet_Repo\DotNetRepo\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_Sampl
 C:\DotNet_Repo\DotNetRepo\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.dll
 C:\DotNet_Repo\DotNetRepo\Module_1_SampleLibrary\obj\Debug\net5.0\ref\Module_1_SampleLibrary.dll
 C:\DotNet_Repo\DotNetRepo\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.pdb
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\bin\Debug\net5.0\Module_1_SampleLibrary.deps.json
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\bin\Debug\net5.0\Module_1_SampleLibrary.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\bin\Debug\net5.0\ref\Module_1_SampleLibrary.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\bin\Debug\net5.0\Module_1_SampleLibrary.pdb
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.AssemblyInfoInputs.cache
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.AssemblyInfo.cs
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\ref\Module_1_SampleLibrary.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.pdb
+C:\DotNet_Repo\DotNetMentoringProgram\Module_1_SampleLibrary\obj\Debug\net5.0\Module_1_SampleLibrary.csproj.AssemblyReference.cache

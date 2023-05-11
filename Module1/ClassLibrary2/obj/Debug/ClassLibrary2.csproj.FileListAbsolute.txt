@@ -1,0 +1,6 @@
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\DotNet_Repo\DotNetMentoringProgram\Module1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

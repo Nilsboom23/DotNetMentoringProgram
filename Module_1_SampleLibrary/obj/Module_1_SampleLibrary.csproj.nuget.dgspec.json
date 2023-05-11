@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj": {}
+    "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj": {}
   },
   "projects": {
-    "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj": {
+    "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
+        "projectUniqueName": "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
         "projectName": "Module_1_SampleLibrary",
-        "projectPath": "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
+        "projectPath": "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
         "packagesPath": "C:\\Users\\Nilesh_Shirude\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\obj\\",
+        "outputPath": "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nilesh_Shirude\\AppData\\Roaming\\NuGet\\NuGet.Config",

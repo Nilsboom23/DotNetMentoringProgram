@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W3kOvhxNpRZeW5S59eK+o7DQ3SmUuTnI5p3Zotk/mw0IHqUeM43DwOMTGidEFT2wzoK66CPFltA2j61eksTQMA==",
+  "dgSpecHash": "Z1Zz8ARO+oSyZ6cWDOizJoGjjnS7GrOTq+NJHMsnKkYuq0DXG60OGtD3ZCBEye7S+9U7N2C0/y1vKbCDqiefog==",
   "success": true,
-  "projectFilePath": "C:\\DotNet_Repo\\DotNetRepo\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
+  "projectFilePath": "C:\\DotNet_Repo\\DotNetMentoringProgram\\Module_1_SampleLibrary\\Module_1_SampleLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
