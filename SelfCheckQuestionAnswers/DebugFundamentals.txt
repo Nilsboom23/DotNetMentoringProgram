@@ -1,0 +1,34 @@
+
+What is break mode? What are the options to step through code?
+Break mode lets you to observe code line to line in order to locate error.
+following option to step through code.
+- Step Into
+- Step Over
+- Step Out
+- Run To Cursor
+- Set Next Statement
+
+How to ignore some exceptions during debugging?
+We can use In the Exception Settings window (Debug > Windows > Exception Settings)in visual studio, expand the node for a category of exceptions. Then select the check box for a specific exception within that category.
+You can also select an entire category of exceptions.
+
+
+How to set up conditional breakpoint?
+Right-click the breakpoint symbol and select Conditions (or press Alt + F9, C)
+
+What is data breakpoint?
+Data breakpoint allows you to break execution when a particular variable's value changes, rather than having to stop at a specific line of code. 
+This can be helpful when trying to debug an issue related to a specific data value.
+
+What is trace point and how to use it?
+Tracepoints allow you to log information to the Output window under configurable conditions without modifying or stopping your code.
+
+What are pdb files, when are they created and how to use them?
+Program database (.pdb) files, also called symbol files, map identifiers.These mapping files link the debugger to your source code, which enables debugging.
+
+What is symbol server?
+The symbol server enables the debuggers to automatically retrieve the correct symbol files without product names, releases, or build numbers. 
+Debugging Tools for Windows contains the SymSrv symbol server.
+
+What are debug and release build configurations?
+A Debug configuration supports the debugging of an app, and a Release configuration builds a version of the app that can be deployed.
