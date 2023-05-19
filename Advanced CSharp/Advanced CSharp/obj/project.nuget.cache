@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9if9Z3XxyUdgJ7X1uSiCFc4yfnELcwWKLti3Q/u1MOsD1j1QhopT7Gn1tpw04aJdceJmOxuvtCwTD97o6eNcg==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet_Repo\\DotNetMentoringProgram\\Advanced CSharp\\Advanced CSharp\\Advanced CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nilesh_Shirude\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nilesh_Shirude\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nilesh_Shirude\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
