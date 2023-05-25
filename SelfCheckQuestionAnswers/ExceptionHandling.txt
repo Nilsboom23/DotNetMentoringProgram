@@ -1,0 +1,53 @@
+What is the purpose of Exception Handling in C#?
+Error Reporting: Exception handling provides a structured way to report and handle errors. When an exceptional situation occurs, an exception object is created, which contains information about the error. This information can be logged or displayed to the user, helping in troubleshooting and debugging the program.
+Program Flow Control: Exceptions allow you to control the flow of your program in response to errors. By catching and handling exceptions, you can take appropriate actions to recover from the error and continue executing the program, rather than letting it crash or produce incorrect results.
+Error Handling: Exception handling enables you to write code that handles different types of errors in different ways. You can catch specific exceptions and provide specific error-handling logic for each case. This allows you to handle different error scenarios appropriately, such as retrying an operation, logging the error, displaying user-friendly error messages, or rolling back transactions.
+Resource Cleanup: Exceptions can be used to ensure proper cleanup of resources, such as closing files, releasing database connections, or freeing up memory. By using a try-finally or try-catch-finally block, you can guarantee that cleanup code will be executed even if an exception occurs.
+Layered Error Handling: Exception handling allows errors to be propagated up the call stack, making it possible to handle them at different levels of the program. This is particularly useful in layered architectures, where lower-level components can throw exceptions that are caught and handled by higher-level components.
+
+
+Can a try block have multiple catch blocks? 
+Yes, we can have multiple catch blocks with try statement
+
+Describe a flow how exceptions are handled? 
+Here's a general description of how exceptions are handled-
+Exception Occurrence: An exception is an event that occurs during the execution of a program and disrupts the normal flow of instructions. 
+Exception Throwing: When an exceptional condition is encountered, an exception is thrown. This is typically done explicitly by the program code using the throw statement or automatically by the programming language or runtime environment when certain predefined conditions are met.
+Exception Propagation: Once an exception is thrown, the program starts looking for an appropriate exception handler to deal with the exception.
+Exception Handling: When an exception is thrown, the program's normal flow is interrupted, and the execution jumps to a specific block of code designed to handle that particular exception. This block is called an exception handler or catch block.
+Catching the Exception: The catch block is responsible for catching the exception and executing the necessary code to handle the exceptional situation. It typically contains code to recover from the error, log the error details, or display an error message to the user.
+Exception Resolution: Once the catch block has executed, the program continues its normal execution from the point immediately after the catch block. If the exception has been handled successfully, the program can recover from the exceptional condition and continue running. If not, the exception may be re-thrown or escalated to a higher-level handler.
+Exception Escalation: In some cases, an exception cannot be handled at the current level, or the catch block decides it cannot handle the exception adequately. In such situations, the exception can be re-thrown using the throw statement. 
+Unhandled Exceptions: If an exception propagates all the way up to the top-level of the program without being caught or handled, it becomes an unhandled exception. Unhandled exceptions typically result in the termination of the program and may generate error messages or crash reports.
+
+
+What is the base class from which all exceptions are derived? 
+SystemException class is the base class for all predefined system exception
+
+
+What is the difference between Exception and Inner Exception? 
+An exception refers to an event that occurs during the execution of a program that disrupts the normal flow of the program's instructions. 
+When an exception occurs, it typically causes the program to terminate or execute a special code path designed to handle the exception.
+Inner exceptions provide more detailed and meaningful information about the cause of the exception. 
+Each inner exception represents a specific level or layer of the error, allowing developers to trace back through the exception chain to identify the root cause of the problem.
+
+What is the difference between throw ex; and throw; statements?  
+The difference between throw and throw ex in C# is that throw provides information about from where the exception was thrown and also about the actual exception while throw ex provides information only about from where the exception was thrown.
+
+What is the purpose of finally statement? 
+Finally block execute clean up code like closing connections, closing files, or freeing up threads, as it executes regardless of an exception.
+
+What predefined .NET Exceptions do you know? 
+System.Exception: The base class for all exceptions in .NET.
+System.SystemException: The base class for all system exceptions that are thrown by the common language runtime.
+System.ApplicationException: The base class for custom exceptions.
+System.ArgumentException: Thrown when one or more arguments are not valid.
+System.ArgumentNullException: Thrown when a null argument is passed to a method that doesn't accept it.
+System.ArgumentOutOfRangeException: Thrown when an argument value is outside the range of valid values.
+System.InvalidOperationException: Thrown when an operation is not valid for the current state of an object.
+System.NullReferenceException: Thrown when a null object reference is encountered.
+System.IndexOutOfRangeException: Thrown when an array index is outside the bounds of the array.
+System.DivideByZeroException: Thrown when an attempt is made to divide an integer or decimal value by zero.
+
+Is there a way to create a custom exception?
+Yes, one can create custom exceptions by defining a new class that derives from the Exception class or any of its subclasses.
