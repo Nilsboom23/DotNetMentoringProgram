@@ -1,0 +1,10 @@
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.AssemblyReference.cache
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\DotNet_Repo\DotNetMentoringProgram\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb

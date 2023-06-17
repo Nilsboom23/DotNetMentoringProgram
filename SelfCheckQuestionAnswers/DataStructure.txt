@@ -1,0 +1,70 @@
+
+
+What is a Data Structure?  
+A data structure is a way of organizing and storing data in a computer so that it can be accessed and used efficiently.
+
+What are the various operations that can be performed on different Data Structures?  
+Insertion
+Deletion
+Search
+Update
+Lookup
+isEmpty
+
+
+How is an Array different from Linked List?  
+An array is a contiguous block of memory that stores elements of the same type.In contrast, a linked list is a collection of nodes, where each node contains a value and a reference or pointer to the next node in the sequence.
+Arrays have a fixed size determined during initialization, and that size cannot be changed dynamically. Linked lists, on the other hand, can grow or shrink dynamically by adding or removing nodes.
+Inserting or deleting an element in an array can be inefficient, especially in the middle or at the beginning, because it requires shifting elements to accommodate the change. Linked lists excel at inserting or deleting elements at any position, as they only require updating the references between nodes.
+Arrays require a contiguous block of memory to store their elements. As a result, memory must be allocated in advance for the entire array, even if it's not fully utilized. Linked lists, however, can dynamically allocate memory for each individual node, using only the necessary amount of memory for the elements actually present.
+
+
+What is Stack and where can it be used? 
+ The stack is an abstract data type that serves as a collection of elements with two main operations: "push," which adds an element to the collection, and "pop," which removes the most recently added element. This data structure follows the Last-In-First-Out (LIFO) principle, meaning that the most recently added element is the first one to be removed.
+Stack can be used in following cases -
+Undo/Redo functionality
+Backtracking algorithms
+Browser history
+
+What is a Queue, how it is different from the stack and how is it implemented?  
+A queue is an abstract data type that represents a collection of elements arranged in a specific order. It follows the First-In-First-Out (FIFO) principle, meaning that the element that has been in the queue the longest is the first one to be removed.
+The primary difference between Stack and Queue Data Structures is that Stack follows LIFO while Queue follows FIFO data structure type
+A queue can be implemented using Arrays, Linked-lists, Pointers, and Structures.
+
+What is a Linked List and What are its types?  
+A linked list is a common data structure.It consists of a sequence of nodes, where each node contains a data element and a reference (or link) to the next node in the sequence. The last node in the list typically has a reference to null, indicating the end of the list.
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Skip List
+Self-Organizing List
+
+Which data structures C# have? 
+Array
+List
+LinkedList
+Stack
+Queue
+Dictionary
+HashSet
+SortedList
+SortedSet
+
+List C# collections features. 
+Commonly used collection classes in C# include List<T>, Dictionary<TKey, TValue>, and HashSet<T>. Where T can be dataType
+
+What is the algorithmic complexity of collections?  
+The algorithmic complexity of collections, such as lists, sets, and dictionaries, can vary depending on the specific operations being performed on them.
+few examples -
+Lists: 
+Accessing an element by index: O(1)
+Inserting an element at the end: O(1)
+Inserting an element at a spcific index: O(n)
+Sets:
+Adding an element: O(1)
+Checking if an element exists: O(1)
+Union of two sets: O(m + n), where m and n are the sizes of the sets being merged
+Dictionaries (hash tables):
+Updating a value by key: O(1)
+Removing a key-value pair: O(1)
+Searching for a key: O(1) on average, but can be O(n) in the worst case if there are many collisions in the hash table
