@@ -1,0 +1,28 @@
+What is reflection in .NET? 
+Reflection is a powerfulfeature that allows you to obtain information about types, members, and metadata of an assembly at runtime. 
+
+What does reflection allow you to do? 
+
+Retrieving information about types: You can obtain details about classes, structures, interfaces, enums, and other types defined in an assembly. This includes retrieving their properties, methods, fields, events, constructors, and attributes.
+
+Creating instances of types dynamicallyser input or configuration settings
+
+Invoking methods and accessing properties
+
+Retrieving and modifying attribute information
+
+Dynamically loading and using assemblies: Reflection enables you to load assemblies at runtime and interact with their types and members.
+
+
+What are fully qualified type names? 
+In C#, a fully qualified type name is a complete name that uniquely identifies a type within its namespace and assembly. It includes both the namespace and the type name.
+Example-Namespace.TypeName 
+
+What examples of practical application of reflection can you imagine? 
+Frameworks and libraries that need to provide extensibility, allowing developers to plug in their custom types and behaviors.
+Object serialization and deserialization, where you need to inspect and manipulate object data at runtime.
+Dependency injection frameworks, where objects are instantiated and wired together based on metadata and configuration.
+Testing frameworks and tools that need to discover and invoke test methods dynamically.
+
+Is it possible to get information about private fields/methods using reflection? 
+Yes, it is possible to get information about private fields and methods using reflection in C#. 
